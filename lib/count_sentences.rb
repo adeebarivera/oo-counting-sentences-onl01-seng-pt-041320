@@ -19,7 +19,7 @@
 #   end
 # end
 
-lass String
+class String
 
   def sentence?
     self.end_with?(".")
